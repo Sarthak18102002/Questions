@@ -1,6 +1,3 @@
-Python,Basics
-What is Python?,Yes
-Define a variable,Yes
-Explain indentation,No
-What is a list?,Yes
-Difference between list and tuple?,No
+"question,answer,topic"
+"What is React?,React is a JavaScript library for building UIs,React"
+"What is JSX?,JSX is a syntax extension for JavaScript,React"
