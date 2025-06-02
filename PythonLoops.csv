@@ -1,6 +1,6 @@
-questionId,question,answer,,
-q1,What are the types of loops available in Python?,"for, while, and nested loops",,
-q2,How does a for loop work in Python?,It iterates over items of a sequence (like list, tuple, string)
-q3,What is the syntax of a while loop in Python?,while condition:\n    # code block,,
-q4,How do you exit a loop prematurely in Python?,Using the break statement,,
-q5,What does the continue statement do in loops?,Skips the current iteration and moves to the next,,
+questionId,question,answer
+q1,What are the types of loops available in Python?,"for, while, and nested loops"
+q2,How does a for loop work in Python?,"It iterates over items of a sequence (like list,tuple,string)"
+q3,What is the syntax of a while loop in Python?,while condition:\n    # code block
+q4,How do you exit a loop prematurely in Python?,Using the break statement
+q5,What does the continue statement do in loops?,Skips the current iteration and moves to the next
