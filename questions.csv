@@ -1,14 +1,14 @@
-questionId,question,answer
-1,What is React?,React is a JavaScript library for building UI
-2,What is JSX?,JSX is a syntax extension for JavaScript
-3,A,SA
-4,V,sd
-5,ssa,sd
-6,aas,sdsd
-7,dsds,sdsd
-8,sds,sdsd
-9,sds,sdsd
-10,sdsd,sdsd
-11,sd,sdsd
-12,sdsd,aa
-13,a,sd
+question,answer
+What is React?,React is a JavaScript library for building UI
+What is JSX?,JSX is a syntax extension for JavaScript
+A,SA
+V,sd
+ssa,sd
+aas,sdsd
+dsds,sdsd
+sds,sdsd
+sds,sdsd
+sdsd,sdsd
+sd,sdsd
+sdsd,aa
+a,sd
